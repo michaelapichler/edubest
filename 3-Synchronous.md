@@ -7,7 +7,7 @@
 * Aufzeichnen der Session
 * Video ist immer Mehrwert (nur bei Problemen Standbild)
 * Vergangene Aufzeichnungen zur Verfügung stelle
-* Sitzungsablauf vorher in ein Fenster *'pasten'*
+* Sitzungsablauf vorher in ein Fenster 'pasten'
 
 * Abstimmungen für Kenntnisstand motivieren
 * Emoticons motivieren
@@ -19,4 +19,4 @@
 * Gists nutzen / referenzieren
 
 * Viel Kritik + Feedback einfordern. Kommunizieren, dass Dozent evaluiert wird!
-* >= 3 Präsenzen
+* mindestens 3 Präsenzen
